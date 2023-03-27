@@ -1,4 +1,4 @@
-package ajenciaViajes;
+package agenciaViajes;
 
 import java.util.ArrayList;
 

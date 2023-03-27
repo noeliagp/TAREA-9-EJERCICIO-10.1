@@ -1,4 +1,4 @@
-package ajenciaViajes;
+package agenciaViajes;
 
 public class Turista {
     int codigoTurista;
